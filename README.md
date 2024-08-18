@@ -1,6 +1,6 @@
 # Scala Hello World in Docker
 
-This is a simple Scala "Hello World" project that demonstrates how to run a Scala application inside a Docker container. Make sure to have Docker installed and running on your machine before continuing.
+This is a simple Scala "Hello World" project that demonstrates how to run a Scala application inside a Docker container. Make sure to have [Docker](https://www.docker.com/) installed and running on your machine before continuing.
 
 ## Files
 
